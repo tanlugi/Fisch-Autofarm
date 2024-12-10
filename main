@@ -140,3 +140,5 @@ window:Label("Hold Rod to Auto Farm", Color3.fromRGB(127, 143, 166))
 
 
 window:Label("TLG SCRIPTS", Color3.fromRGB(327, 343, 366))
+
+-- https://you.whimper.xyz/sources/rb/fisch.lua
